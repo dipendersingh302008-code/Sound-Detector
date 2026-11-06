@@ -6,7 +6,7 @@ A custom PCB designed to detect sound using a microphone and a custom designed P
 
 ▶️ [lapse link](https://www.youtube.com/watch?v=PWUpOuOhq_U)
 
-## Demo Video
+## lapse link
 
 ▶️ [lapse link](https://lapse.hackclub.com/timelapse/wapTY940EzJC)
 
