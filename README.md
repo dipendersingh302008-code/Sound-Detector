@@ -4,7 +4,11 @@ A custom PCB designed to detect sound using a microphone and a custom designed P
 
 ## Demo Video
 
-▶️ [Demo video](https://www.youtube.com/watch?v=PWUpOuOhq_U)
+▶️ [lapse link](https://www.youtube.com/watch?v=PWUpOuOhq_U)
+
+## Demo Video
+
+▶️ [lapse link](https://lapse.hackclub.com/timelapse/wapTY940EzJC)
 
 ## About Project
 
